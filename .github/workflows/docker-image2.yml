@@ -16,7 +16,6 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: Build the Docker image
-      uses: mr-smithers-excellent/docker-build-bush@v4
       with:
         image: noor66/hello-flask
         registry: docker.io
