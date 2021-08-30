@@ -8,7 +8,7 @@ Code repository - [https://github.com/chandradeoarya/docker-flask](https://githu
 
 ## Docker image tags
 
-**Image name:** `chandradeoarya/hello-flask`
+**Image name:** `noor66/hello-flask`
 
 ## Environment Variables
 
